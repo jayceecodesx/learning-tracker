@@ -1,2 +1,2 @@
 # learning-tracker
-This folder is to show the progression of my learning
+this folder is to show the progression of my learning
