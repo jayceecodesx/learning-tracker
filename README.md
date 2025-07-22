@@ -1,2 +1,2 @@
 # learning-tracker
-university classes
+This folder is to show the progression of my learning
